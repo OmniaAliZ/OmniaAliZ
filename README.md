@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![Header](https://github.com/user-attachments/assets/0790a728-7714-4256-93db-b1ea133d5545)
+
 <!--
 **OmniaAliZ/OmniaAliZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
