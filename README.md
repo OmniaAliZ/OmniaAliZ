@@ -4,7 +4,7 @@
 ![Header](https://github.com/user-attachments/assets/0790a728-7714-4256-93db-b1ea133d5545)
 ## 
 
-## Hello, I am Omnia Alzahrani, 
+## Hello, I am Omnia Alzahrani, a full stack developer!
 ## A passionate DEVELOPER with a drive for constant improvement 🔆. 
 
 ### Skilled in  ⚡ 
